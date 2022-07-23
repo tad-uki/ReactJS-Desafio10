@@ -1,0 +1,54 @@
+.counterSection{
+    display: flex;
+    flex-flow: row nowrap;
+    margin-left: 50px;
+    width: 195px;
+    font-size: 30px;
+}
+
+.counterSection button{
+    font-size: 30px;
+    height: 50%;
+    margin-top: 25px;
+    width: 40px;
+    margin: 20px;
+    margin-top: 30px;
+    align-self: center;
+    background-color: rgb(98, 231, 149);
+    color: rgb(145, 13, 13);
+    border-radius: 30px;
+}
+
+.counterSection p{
+    color: rgb(145, 13, 13);
+}
+
+
+.stockSection{
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-style: italic;
+    color: rgb(145, 13, 13);
+}
+
+.stockSection div{
+    font-size: 30px;
+}
+
+.finishSection{
+    margin-left: 50px;
+}
+
+.finishSection button{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: rgb(5, 80, 5);
+    background-color: rgb(233, 99, 99);
+    border-radius: 8px;
+}
+
+.finishSection button a{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,51 @@
+
+.itemList{
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.itemEach{
+    margin: 50px;
+    padding: 10px;
+    border: solid 2px rgb(109, 5, 5);
+}
+
+.itemEach img{
+    width: 200px;
+    height: 200px;
+}
+
+.itemEach h3{
+    font-size: 30px;
+    color: rgb(5, 92, 12);
+}
+
+.itemEach p{
+    font-size: 25px;
+    color: rgb(109, 5, 5);
+    font-style: italic;
+}
+
+.itemEach article{
+    font-size: 20px;
+    color: rgb(109, 5, 5);
+}
+
+.itemEach button{
+    margin-top: 15px;
+    height: 25px;
+    width: 100px;
+    background-color: rgb(10, 43, 2);
+    border: solid 1px rgb(109, 5, 5);
+}
+
+.itemEach button a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+#itemLoading{
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.514);
+    font-style: italic;
+}

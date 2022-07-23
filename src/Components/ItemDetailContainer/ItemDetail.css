@@ -1,0 +1,36 @@
+#itemDetail{
+    display:  flex;
+    flex-flow: row nowrap;
+
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.imgDetail{
+    width: 500px;
+    height: 500px;
+}
+
+#itemArticle{
+    margin-left: 80px;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+}
+
+#itemArticle h2{
+    font-size: 40px;
+    color: rgb(10, 43, 2);
+}
+
+#itemArticle p{
+    font-size: 28px;
+    color: rgb(109, 5, 5);
+    font-style: italic;
+}
+
+#itemArticle article{
+    margin-bottom: 150px;
+    font-size: 20px;
+    color: rgb(109, 5, 5);
+}

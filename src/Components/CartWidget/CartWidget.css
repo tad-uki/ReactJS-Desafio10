@@ -1,0 +1,26 @@
+.imageIcon{
+    width: 80px;
+    height: 80px;
+    align-self: center;
+}
+
+.iconCounter{
+    font-size: 35px;
+    margin-left: 10px;
+    background-color: rgb(16, 112, 21);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.iconCounter a{
+    text-decoration: none;
+    color: white;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+}

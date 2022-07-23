@@ -1,0 +1,13 @@
+.cartItem{
+    display: flex;
+    flex-flow: row nowrap;
+    border: 2px solid rgb(97, 12, 12);
+    width: 300px;
+    padding: 10px;
+    margin: 30px;
+}
+
+.cartItem div img{
+    width: 150px;
+    height: 150px;
+}
